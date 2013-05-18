@@ -13,7 +13,7 @@ DjangoCon Europe in Warsaw, 18th May 2013
 * Winnie the Pooh
 * @zlatkoc
 * @postrational
-
+* me
 
 I followed the tutorial online
 ==============================
