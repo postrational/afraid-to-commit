@@ -14,9 +14,11 @@ DjangoCon Europe in Warsaw, 18th May 2013
 * @zlatkoc
 * @postrational
 * me
+* Eddy Merckx
+* Bernard Hinault
+* Gino Bartali
 
 I followed the tutorial online
 ==============================
 * Daniele Procida <daniele@vurt.org> https://github.com/evildmp
-
 * assistance from Hamish
